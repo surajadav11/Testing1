@@ -14,6 +14,14 @@ public class Demo {
 	{
 		System.out.println("M3 method");
 	}
+	
+
+	public void m4() 
+	{
+		System.out.println("M4 method");
+	}
+	
+	
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
