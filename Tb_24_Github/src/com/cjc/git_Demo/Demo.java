@@ -20,7 +20,13 @@ public class Demo {
 	{
 		System.out.println("M4 method");
 	}
+
 	
+	public void m5() 
+	{
+		System.out.println("M5 method");
+	}
+
 	
 
 	public static void main(String[] args) {
