@@ -26,16 +26,15 @@ public class Demo {
 	}
 
 	
-	public void m5() 
-	{
-		System.out.println("M5 method");
-	}
-
 	public void run()
 	{
 		System.out.println("This is run method");
 	}
-	
+
+	public void f()
+	{
+		System.out.println("This is method ");
+	}
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
