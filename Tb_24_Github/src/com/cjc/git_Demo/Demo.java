@@ -1,6 +1,10 @@
 package com.cjc.git_Demo;
 
 public class Demo {
+	
+	
+	
+	
 	public void m1() 
 	{
 		System.out.println("M1 method");
@@ -27,6 +31,10 @@ public class Demo {
 		System.out.println("M5 method");
 	}
 
+	public void run()
+	{
+		System.out.println("This is run method");
+	}
 	
 
 	public static void main(String[] args) {
